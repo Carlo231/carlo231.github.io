@@ -1,2 +1,11 @@
-{h1 color: green; }
-{p color: brown; }
+ h1 {
+    font-size: 6pc;
+	margin: 0px;
+	background-color: green;
+	text-align: center;
+	}
+  p {
+    text-align: center;
+	font-size: 2pc;
+	}
+
